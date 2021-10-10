@@ -1,5 +1,5 @@
 # CheaterList
-List of cheaters that were automatically found
+List of TF2 Cheaters that were found via known cheater steam groups
 
 Note: May have issues as I'm working out the kinks.
 
