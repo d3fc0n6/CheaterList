@@ -1,0 +1,13 @@
+{
+    "$schema": "https:\/\/raw.githubusercontent.com\/PazerOP\/tf2_bot_detector\/master\/schemas\/v3\/playerlist.schema.json",
+    "file_info": {
+        "authors": [
+            "WalterWhite3",
+            "d3fc0n6"
+        ],
+        "description": "List of Cheaters found by d3fc0n6.",
+        "title": "Cheaters found by groups",
+        "update_url": "https:\/\/raw.githubusercontent.com\/d3fc0n6\/cheaterList\/master\/playerlist-sus.tf2bd.json"
+    },
+    "players": []
+}
