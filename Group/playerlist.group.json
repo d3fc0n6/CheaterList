@@ -7,7 +7,7 @@
         ],
         "description": "List of Cheaters found by d3fc0n6.",
         "title": "Cheaters found by groups",
-        "update_url": "https:\/\/raw.githubusercontent.com\/d3fc0n6\/cheaterList\/master\/playerlist.d3fc0n6-group.json"
+        "update_url": "https:\/\/raw.githubusercontent.com\/d3fc0n6\/cheaterList\/main\/playerlist.d3fc0n6-group.json"
     },
     "players": [
         {
@@ -201,6 +201,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:2487815]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:2561668]"
         },
         {
             "attributes": [
@@ -500,6 +506,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:20050298]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:20156331]"
         },
         {
@@ -543,6 +555,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:27319516]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:28133832]"
         },
         {
             "attributes": [
@@ -992,6 +1010,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:51831173]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:52377815]"
         },
         {
@@ -1059,6 +1083,18 @@
                 "suspicious"
             ],
             "steamid": "[U:1:57667768]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:58890943]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:61630858]"
         },
         {
             "attributes": [
@@ -1190,6 +1226,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:75896256]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:76142470]"
         },
         {
@@ -1269,6 +1311,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:81967999]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:81998378]"
         },
         {
             "attributes": [
@@ -1431,6 +1479,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:92932420]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:93230437]"
         },
         {
             "attributes": [
@@ -1706,6 +1760,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:104712754]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:105280689]"
         },
         {
@@ -1755,6 +1815,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:106862979]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:107144991]"
         },
         {
             "attributes": [
@@ -2001,6 +2067,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:116356550]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:116545494]"
         },
         {
             "attributes": [
@@ -2462,6 +2534,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:140032633]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:140032689]"
         },
         {
@@ -2529,6 +2607,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:145352440]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:145716688]"
         },
         {
             "attributes": [
@@ -2732,6 +2816,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:155181655]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:155291618]"
         },
         {
@@ -2852,6 +2942,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:160828918]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:160855862]"
         },
         {
@@ -2871,6 +2967,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:161607783]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:163385347]"
         },
         {
             "attributes": [
@@ -2955,6 +3057,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:167095753]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:167224392]"
         },
         {
             "attributes": [
@@ -3656,6 +3764,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:208784751]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:209240185]"
         },
         {
@@ -3759,6 +3873,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:220245502]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:220380282]"
         },
         {
             "attributes": [
@@ -4028,6 +4148,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:245088881]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:245409863]"
         },
         {
@@ -4053,6 +4179,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:247197960]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:247334947]"
         },
         {
             "attributes": [
@@ -4304,6 +4436,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:276866518]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:276890926]"
         },
         {
@@ -4413,6 +4551,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:295936907]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:296107322]"
         },
         {
             "attributes": [
@@ -4580,6 +4724,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:302789200]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:302899802]"
         },
         {
@@ -4725,6 +4875,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:313944076]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:314146588]"
         },
         {
             "attributes": [
@@ -4917,6 +5073,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:332683628]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:332708794]"
         },
         {
             "attributes": [
@@ -5150,6 +5312,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:352081853]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:352902349]"
         },
         {
@@ -5210,6 +5378,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:359373828]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:359596857]"
         },
         {
@@ -5265,6 +5439,18 @@
                 "suspicious"
             ],
             "steamid": "[U:1:364010378]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:364264201]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:365001059]"
         },
         {
             "attributes": [
@@ -5391,6 +5577,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:374223921]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:375304881]"
         },
         {
             "attributes": [
@@ -5642,6 +5834,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:389805233]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:390203408]"
         },
         {
@@ -5666,6 +5864,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:392354247]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:392601538]"
         },
         {
@@ -5679,6 +5883,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:392752159]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:392786166]"
         },
         {
             "attributes": [
@@ -5703,6 +5913,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:393626608]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:393708465]"
         },
         {
             "attributes": [
@@ -5835,6 +6051,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:400137898]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:401057174]"
         },
         {
             "attributes": [
@@ -5996,6 +6218,18 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:411069755]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:411307100]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:411582879]"
         },
         {
@@ -6056,6 +6290,18 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:416340754]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:416491033]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:417157905]"
         },
         {
@@ -6104,6 +6350,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:420675474]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:420683848]"
         },
         {
@@ -6111,6 +6363,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:421193738]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:421484147]"
         },
         {
             "attributes": [
@@ -6380,6 +6638,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:433092051]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:433132588]"
         },
         {
@@ -6404,6 +6668,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:433830370]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:434007051]"
         },
         {
@@ -6416,7 +6686,19 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:434477383]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:434522019]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:434523455]"
         },
         {
             "attributes": [
@@ -6429,6 +6711,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:434932591]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:435323385]"
         },
         {
             "attributes": [
@@ -6459,6 +6747,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:436241405]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:436334161]"
         },
         {
             "attributes": [
@@ -6572,6 +6866,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:442288692]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:442564080]"
         },
         {
@@ -6620,6 +6920,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:443708838]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:443786133]"
         },
         {
@@ -6651,6 +6957,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:444286113]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:444740864]"
         },
         {
             "attributes": [
@@ -6866,6 +7178,18 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:453463176]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:453740983]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:453752121]"
         },
         {
@@ -6903,6 +7227,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:454755788]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:455560720]"
         },
         {
             "attributes": [
@@ -6956,6 +7286,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:457257169]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:457880568]"
         },
         {
@@ -6981,6 +7317,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:460742993]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:460779737]"
         },
         {
             "attributes": [
@@ -7125,6 +7467,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:468935501]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:469969776]"
         },
         {
             "attributes": [
@@ -7827,6 +8175,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:841686719]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:841693587]"
         },
         {
             "attributes": [
@@ -8876,6 +9230,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:862729419]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:862762476]"
         },
         {
@@ -9296,6 +9656,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:882991817]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:883140308]"
         },
         {
@@ -9453,6 +9819,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:888687068]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:888714717]"
         },
         {
             "attributes": [
@@ -9722,6 +10094,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:899443081]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:900019751]"
         },
         {
@@ -9837,6 +10215,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:908261577]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:908321443]"
         },
         {
             "attributes": [
@@ -9974,6 +10358,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:920177275]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:920257293]"
         },
         {
@@ -10106,6 +10496,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:927912139]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:930292072]"
         },
         {
@@ -10143,6 +10539,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:934440281]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:934585041]"
         },
         {
             "attributes": [
@@ -10262,6 +10664,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:957529742]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:957815469]"
         },
         {
@@ -10322,6 +10730,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:960805870]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:962894202]"
         },
         {
@@ -10352,6 +10766,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:967543251]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:969367416]"
         },
         {
@@ -10359,6 +10779,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:969630905]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:970167636]"
         },
         {
             "attributes": [
@@ -10466,6 +10892,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:994950098]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:995152777]"
         },
         {
@@ -10538,6 +10970,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1001725083]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1002847555]"
         },
         {
@@ -10593,6 +11031,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1005246512]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1005390586]"
         },
         {
             "attributes": [
@@ -10844,6 +11288,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1019316953]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1019784297]"
         },
         {
@@ -10905,6 +11355,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1021617365]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1021870183]"
         },
         {
             "attributes": [
@@ -11090,6 +11546,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1028812159]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1029008784]"
         },
         {
@@ -11126,6 +11588,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1031363525]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1031429255]"
         },
         {
@@ -11157,6 +11625,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1033148106]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1033273157]"
         },
         {
             "attributes": [
@@ -11312,6 +11786,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1044620093]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1045110652]"
         },
         {
@@ -11343,6 +11823,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1045816051]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1046846570]"
         },
         {
             "attributes": [
@@ -11486,6 +11972,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1054454412]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1054590135]"
         },
         {
@@ -11607,6 +12099,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1061539028]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1061703645]"
         },
         {
             "attributes": [
@@ -11774,6 +12272,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1070930929]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1071055240]"
         },
         {
@@ -11894,6 +12398,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1075832710]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1075943071]"
         },
         {
@@ -11979,6 +12489,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1081065067]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1081775811]"
         },
         {
             "attributes": [
@@ -12194,6 +12710,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1092826857]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1092881325]"
         },
         {
@@ -12243,6 +12765,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1094511355]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1094523308]"
         },
         {
             "attributes": [
@@ -12602,6 +13130,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1107715125]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1108694548]"
         },
         {
@@ -12675,6 +13209,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1110356921]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1110571374]"
         },
         {
             "attributes": [
@@ -12920,6 +13460,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1121376374]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1121615498]"
         },
         {
@@ -12993,6 +13539,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1126522741]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1126798326]"
         },
         {
             "attributes": [
@@ -13358,6 +13910,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1146686838]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1146779688]"
         },
         {
@@ -13383,6 +13941,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1147798264]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1148327314]"
         },
         {
             "attributes": [
@@ -13479,6 +14043,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1155854308]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1156014945]"
         },
         {
             "attributes": [
@@ -13712,6 +14282,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1171902013]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1172204052]"
         },
         {
@@ -13796,6 +14372,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1176369191]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1176407816]"
         },
         {
@@ -13803,6 +14385,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1177296244]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1177480414]"
         },
         {
             "attributes": [
@@ -14138,7 +14726,19 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1189346758]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1189580954]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1189866710]"
         },
         {
             "attributes": [
@@ -14181,6 +14781,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1190891450]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1190927537]"
         },
         {
             "attributes": [
@@ -14271,6 +14877,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1193199096]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1193578286]"
         },
         {
             "attributes": [
@@ -14792,6 +15404,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1204544985]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1205051640]"
         },
         {
@@ -14978,7 +15596,25 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:1213910758]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1214080777]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:1214777801]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1215042688]"
         },
         {
             "attributes": [
@@ -15003,6 +15639,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1216448379]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1216735360]"
         },
         {
             "attributes": [
@@ -15099,6 +15741,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1220103417]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1222067786]"
         },
         {
             "attributes": [
@@ -15207,6 +15855,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1229750151]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1230062984]"
         },
         {
             "attributes": [
@@ -15507,6 +16161,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1249126383]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1249576825]"
         },
         {
             "attributes": [
