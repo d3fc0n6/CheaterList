@@ -5,9 +5,9 @@
             "WalterWhite3",
             "d3fc0n6"
         ],
-        "description": "List of Cheaters found by d3fc0n6.",
+        "description": "List of Bot Detector users found by d3fc0n6.",
         "title": "Cheaters found by >= 8 known cheater friends",
-        "update_url": "https:\/\/raw.githubusercontent.com\/d3fc0n6\/cheaterList\/main\/CheaterFriend\/playerlist.cheaterfriend.json"
+        "update_url": "https:\/\/raw.githubusercontent.com\/d3fc0n6\/CheaterList\/main\/CheaterFriend\/playerlist.cheaterfriend.json"
     },
     "players": [
         {
@@ -135,12 +135,6 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1602884]"
-        },
-        {
-            "attributes": [
-                "suspicious"
-            ],
-            "steamid": "[U:1:1688294]"
         },
         {
             "attributes": [
@@ -1719,6 +1713,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:238416754]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:239015506]"
         },
         {
             "attributes": [
@@ -5019,6 +5019,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1032105772]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1033673814]"
         },
         {
             "attributes": [
