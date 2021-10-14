@@ -5,9 +5,9 @@
             "WalterWhite3",
             "d3fc0n6"
         ],
-        "description": "List of Cheaters found by d3fc0n6.",
+        "description": "List of Bot Detector users found by d3fc0n6.",
         "title": "Cheaters found by VAC and >= 6 known cheater friends",
-        "update_url": "https:\/\/raw.githubusercontent.com\/d3fc0n6\/cheaterList\/main\/VAC\/playerlist.vac.json"
+        "update_url": "https:\/\/raw.githubusercontent.com\/d3fc0n6\/CheaterList\/main\/VAC\/playerlist.vac.json"
     },
     "players": [
         {
@@ -165,6 +165,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:41080530]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:41436789]"
         },
         {
             "attributes": [
@@ -465,6 +471,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:158568181]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:162692528]"
         },
         {
             "attributes": [
@@ -1736,6 +1748,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:475332645]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:477800468]"
         },
         {
@@ -2427,6 +2445,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:986975074]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:987041409]"
         },
         {
             "attributes": [
