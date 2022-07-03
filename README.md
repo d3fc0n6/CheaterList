@@ -16,8 +16,15 @@ If you share >= 8 friends of known cheaters then you are added to the CheaterFri
 If you share >= 4 friends of known cheaters and you yourself have a VACBan then you are added to the VAC list
 
 # What list you should use
-Group list if you wish for semi-high accuracy
 
 CheaterFriend list if you wish for guaranteed accuracy
 
+Group list if you wish for semi-high accuracy
+
 VAC list if you wish to get everyone that was missed in the first two lists (This may have false positives)
+
+
+# Notes
+***This list is bound to have some false positives, due to this everyone is marked as suspected instead of just cheater***
+
+If you do however find a false positive open up an issue and I'll start looking into it
