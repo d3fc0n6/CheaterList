@@ -13850,6 +13850,12 @@
             "attributes": [
                 "suspicious"
             ],
+            "steamid": "[U:1:910607514]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
             "steamid": "[U:1:910940792]"
         },
         {
@@ -21717,6 +21723,12 @@
                 "suspicious"
             ],
             "steamid": "[U:1:1428219514]"
+        },
+        {
+            "attributes": [
+                "suspicious"
+            ],
+            "steamid": "[U:1:1442681119]"
         }
     ]
 }
